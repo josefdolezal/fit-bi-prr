@@ -1,4 +1,4 @@
-# BI-PRR - Projektové Řízení
+# BI-PRR - Projektové řízení
 Repozitář věnovaný předmětu BI-PRR, vyučovaný na FIT ČVUT (@FIT_CTU). Seznam materiálů k ostatním předmětům je v samostatném repozitáři.
 
 | Přednášející    | Vedoucí projektu | Běh předmětu |
