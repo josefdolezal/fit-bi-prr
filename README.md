@@ -1,7 +1,7 @@
 # BI-PRR - Projektové řízení
 Repozitář věnovaný předmětu BI-PRR, vyučovaný na FIT ČVUT (@FIT_CTU). Seznam materiálů k ostatním předmětům je v samostatném repozitáři.
 
-| Přednášející    | Vedoucí projektu | Běh předmětu |
+| Přednášející    | Cvičící          | Běh předmětu |
 |-----------------|------------------|--------------|
 | Martin Půlpitel | Martin Půlpitel  | LS 2016/17   |
 
